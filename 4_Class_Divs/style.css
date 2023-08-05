@@ -1,0 +1,27 @@
+/* Classes */
+.paragragh {
+  background-color: #000;
+  color: magenta;
+  padding: 5px;
+}
+
+/* Id */
+#exclusive-title {
+  background-color: purple;
+  color: white;
+  font-size: 40px;
+  padding: 10px;
+}
+
+/* Regras do CSS, ordem dos seletores */
+h2 {
+  border: 2px solid green;
+}
+
+.title-description {
+  border: 4px solid blue;
+}
+
+#title {
+  border: 6px solid gold;
+}

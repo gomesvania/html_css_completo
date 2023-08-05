@@ -1,0 +1,40 @@
+/* Border */
+
+.border {
+  border: 5px solid red;
+  padding: 10px;
+}
+
+.border2 {
+  border: 2px dotted #567;
+}
+
+/* Border individual */
+
+.border-left {
+  border-left: 4px solid #000;
+  background-color: #567;
+  padding: 5px;
+}
+
+.border-bottom {
+  border-bottom: 7px double #9a3f7e;
+  background-color: #1f5a8c;
+  padding: 12px;
+}
+
+/* Border rounded */
+.rounded-p {
+  background-color: #000;
+  color: #1f5a8c;
+  border: 6px solid #1f5a8c;
+  padding: 15px;
+  border-radius: 25px;
+}
+
+.rounded-p-2 {
+  background-color: #000;
+  color: #1f5a8c;
+  padding: 15px;
+  border-radius: 35px;
+}
